@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hola desde el taller" << std::endl;
+    std::cout << "Version de prueba." << std::endl;
     return 0;
 }
